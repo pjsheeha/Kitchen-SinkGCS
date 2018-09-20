@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{F4957F91-F570-BEC7-13D6-A3E5110D1333}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="19" Column="62" />
+      <File FileName="Assets/Scripts/PlayerHealth.cs" Line="9" Column="48" />
+      <File FileName="Assets/Scripts/PlayerShooting.cs" Line="13" Column="51" />
+      <File FileName="Assets/UIFader.cs" Line="107" Column="2" />
+      <File FileName="Assets/PlayerCanvas.cs" Line="41" Column="1" />
+      <File FileName="Assets/Scripts/RendererToggler.cs" Line="54" Column="2" />
+      <File FileName="Assets/Scripts/GunPositionSync.cs" Line="69" Column="63" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" Line="256" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
