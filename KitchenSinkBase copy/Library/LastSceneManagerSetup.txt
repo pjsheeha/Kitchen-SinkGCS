@@ -1,7 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/MainGameplay.unity
-  isLoaded: 1
-  isActive: 1
-- path: Assets/Scenes/Construct.unity
-  isLoaded: 1
-  isActive: 0
